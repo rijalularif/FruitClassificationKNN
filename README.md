@@ -1,1 +1,4 @@
-# fruit_classification_k-nearest_neighbor
+# Fruit Cclassification K-Nearest Neighbor
+use
+1. Python
+2. Google Colab
