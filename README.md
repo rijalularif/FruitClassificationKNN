@@ -1,4 +1,4 @@
 # Fruit Cclassification K-Nearest Neighbor
-use
+Use
 1. Python
 2. Google Colab
